@@ -1,0 +1,41 @@
+{
+    "message": "success",
+    "data_lapangan": [
+        {
+            "id": "3",
+            "nama_lapangan": "Lapangan Sepak Bola Karah, Jalan Karah Indah IV, RW 01, Karah, Jambangan, Surabaya, Jawa Timur, Jawa, 60222, Indonesia",
+            "deskripsi_lapangan": "Lapangan Sepak Bola hijau rumput Karah 100 x 20 meter ",
+            "alamat": "Jalan Karah Indah IV",
+            "harga_sewa": "45000",
+            "jam_buka": "15:00:00",
+            "jam_tutup": "21:00:00",
+            "gambar_url": "https://ibb.co/mhGs2WQ",
+            "created_at": "2023-12-24 15:31:11",
+            "updated_at": "2023-12-24 15:31:11"
+        },
+        {
+            "id": "2",
+            "nama_lapangan": "Lapangan Sepak Bola Sumberrejo, Jalan Perumahan Griya Surabaya Asri Blok A1-A2, Griya Surabaya Asri, Sumberrejo, Pakal, Surabaya, Jawa Timur, Jawa, 60195, Indonesia",
+            "deskripsi_lapangan": "lapangan olahraga dengan rumput asli hijau dilengkapi dengan bench yang besar untuk para penonton",
+            "alamat": "Jalan Perumahan Griya Surabaya Asri Blok A1-A2",
+            "harga_sewa": "150000",
+            "jam_buka": "08:00:00",
+            "jam_tutup": "22:00:00",
+            "gambar_url": "https://cdn0-production-images-kly.akamaized.net/ez2CQtqibqQxyiLDhPCsUSLMUek=/0x0:0x0/640x360/filters:quality(75):strip_icc():format(jpeg):watermark(kly-media-production/assets/images/watermarks/bola/watermark-color-landscape-new.png,565,20,0)/kly-media-production/medias/4163201/original/063682300_1663571532-Lapangan_THOR_3.jpg",
+            "created_at": "2023-12-24 05:14:10",
+            "updated_at": "2023-12-24 06:59:42"
+        },
+        {
+            "id": "1",
+            "nama_lapangan": "Lapangan Sepak Bola Benowo, Jalan Benowo Tegal, RW 02, Benowo, Pakal, Surabaya, Jawa Timur, Jawa, 60195, Indonesia",
+            "deskripsi_lapangan": "Lapangan Hijau rumput asli, bersih, sarana dan prasarana tersedia dengan kondisi baik",
+            "alamat": "Jalan Benowo Tegal",
+            "harga_sewa": "50000",
+            "jam_buka": "08:00:00",
+            "jam_tutup": "21:00:00",
+            "gambar_url": "https://i.ytimg.com/vi/Kmy7Ewvbsk0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH2CYAC0AWKAgwIABABGGMgYyhjMA8=&rs=AOn4CLATQ9VEYmVQavw-SXo9UnRjzL21tg",
+            "created_at": "2023-12-23 13:09:51",
+            "updated_at": "2023-12-23 13:09:51"
+        }
+    ]
+}
