@@ -42,5 +42,12 @@
             "created_at": "2023-12-23 13:09:51",
             "updated_at": "2023-12-23 13:09:51"
         }
+    ],
+    "User": [{
+            "nama_user": "Nikko Yudha Asmara Adi",
+            "nomor_user": "082333334232",
+            "alamat_user": "Green Menganti Regency",
+            "pendidikan": "IT Telkom Surabaya"
+        }
     ]
 }
