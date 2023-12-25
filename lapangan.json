@@ -44,6 +44,8 @@
         }
     ],
     "User": [{
+            "username": "test1@gmail.com",
+            "password": "123",
             "nama_user": "Nikko Yudha Asmara Adi",
             "nomor_user": "082333334232",
             "alamat_user": "Green Menganti Regency",
