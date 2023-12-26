@@ -1,6 +1,20 @@
 {
     "data_lapangan": [
         {
+            "id": "4",
+            "nama_lapangan": "Lapangan Sepak Bola Sememi, Jalan Sememi, RW 04, Sememi, Benowo, Surabaya, Jawa Timur, Jawa, 60197, Indonesia",
+            "deskripsi_lapangan": "Lapangan Sepak Bola hijau rumput khas sememi 100 x 20 meter ",
+            "fasilitas": "Bench kayu untuk pemain",
+            "telepon": "081244225709",
+            "Owner": "Angin",
+            "harga_sewa": "45000",
+            "jam_buka": "15:00:00",
+            "jam_tutup": "21:00:00",
+            "gambar_url": "https://t.ly/kKSdT",
+            "created_at": "2023-12-24 15:31:11",
+            "updated_at": "2023-12-24 15:31:11"
+        },
+        {
             "id": "3",
             "nama_lapangan": "Lapangan Sepak Bola Karah, Jalan Karah Indah IV, RW 01, Karah, Jambangan, Surabaya, Jawa Timur, Jawa, 60222, Indonesia",
             "deskripsi_lapangan": "Lapangan Sepak Bola hijau rumput Karah 100 x 20 meter ",
