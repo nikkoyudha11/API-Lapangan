@@ -1,1 +1,31 @@
+{
+  "riwayat_sewa": [
+    {
+      "nama_lapangan": "Lapangan A",
+      "fasilitas": ["Penerangan", "Toilet", "Gawang", "Bola"],
+      "gambar": "url_gambar_lapangan_a.jpg",
+      "jam_sewa": {
+        "mulai": "10:00",
+        "selesai": "12:00"
+      },
+      "telepon": "08123456789",
+      "lama_sewa": 2,
+      "harga_sewa": 200000,
+      "total_harga_sewa": 200000
+    },
+    {
+      "nama_lapangan": "Lapangan B",
+      "fasilitas": ["Penerangan", "Toilet", "Gawang", "Bola", "Kursi"],
+      "gambar": "url_gambar_lapangan_b.jpg",
+      "jam_sewa": {
+        "mulai": "15:00",
+        "selesai": "18:00"
+      },
+      "telepon": "08234567890",
+      "lama_sewa": 3,
+      "harga_sewa": 360000,
+      "total_harga_sewa": 360000
+    }
+  ]
+}
 
